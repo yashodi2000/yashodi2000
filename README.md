@@ -14,8 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,azure,aws,mysql,postgresql&perline=6)](https://skillicons.dev)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" height="50"/>
 
 <h2>Tools</h2>
 
