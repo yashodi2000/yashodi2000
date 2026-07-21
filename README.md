@@ -1,8 +1,8 @@
 - <h1 align:"center">👋 Hi there, I’m Chathurya Abeysundara </h1>
-- 👀 I’m interested in full stack desktop and web application development.
+- 👀 I’m interested in Data Analytics, Business Intelligence, Data Visualization, and IT solutions.
 - 🌱 I’m currently learning Sri Lanka Technological Campus (undergraduate)
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 🤝 I’m looking to collaborate on Data Analytics, Business Intelligence, Web Development, and IT projects.
+- 📫 How to reach me yashodiabeysundara@gmail.com
 
 
 - <h2>Languages and Frameworks</h2>
