@@ -5,8 +5,14 @@
 - 📫 How to reach me yashodiabeysundara@gmail.com
 
 
-- <h2>Languages and Frameworks</h2>
-[![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,mongodb,azure,aws,html,css,react,spring,javascript,flutter&perline=6)](https://skillicons.dev)
+<h2>Languages & Frameworks</h2>
 
-- <h2>Tools</h2>
-[![My Skills](https://skillicons.dev/icons?i=pycharm,postman,npm,linkedin,idea,git,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,spring,flutter&perline=6)](https://skillicons.dev)
+
+<h2>Data & Cloud Technologies</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,azure,aws&perline=6)](https://skillicons.dev)
+
+<h2>Tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,idea,postman,npm&perline=6)](https://skillicons.dev)
