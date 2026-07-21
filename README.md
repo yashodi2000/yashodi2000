@@ -15,6 +15,9 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,azure,aws,mysql,postgresql&perline=6)](https://skillicons.dev)
 
 <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="48" height="48"/>
+
 
 <h2>Tools</h2>
 
