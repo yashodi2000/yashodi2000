@@ -9,10 +9,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,spring,flutter&perline=6)](https://skillicons.dev)
 
+
 <h2>Data & Cloud Technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,azure,aws&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,azure,aws,mysql,postgresql&perline=6)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 
 <h2>Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,idea,postman,npm&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,idea,postman,npm,vscode&perline=6)](https://skillicons.dev)
