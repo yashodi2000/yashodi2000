@@ -1,4 +1,4 @@
-- <h1 align="center">👋 Hi there, I’m Chathurya Abeysundara </h1>
+- <h1 align:"center">👋 Hi there, I’m Chathurya Abeysundara </h1>
 - 👀 I’m interested in Data Analytics, Business Intelligence, Data Visualization, and IT solutions.
 - 🎓 I have completed my Bachelor of Applied Information Technology at Sri Lanka Technological Campus (SLTC).
 - 🤝 I’m looking to collaborate on Data Analytics, Business Intelligence, Web Development, and IT projects.
